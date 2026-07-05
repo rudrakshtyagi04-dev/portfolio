@@ -12,7 +12,7 @@ export function Projects() {
         "Engineered secure authentication and a robust MongoDB schema for complex multi-entity relationships."
       ],
       stack: ["React", "Node.js", "Express", "MongoDB", "Socket.io", "JWT"],
-      github: "https://github.com/rudrakshtyagi04-dev",
+      github: "https://github.com/rudrakshtyagi04-dev/Ahaar",
       color: "from-orange-500/20 via-red-500/20 to-rose-500/20",
       border: "hover:border-orange-500/50"
     },
