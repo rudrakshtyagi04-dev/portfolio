@@ -40,7 +40,7 @@ export function Hero() {
             </div>
             <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm text-xs font-medium text-foreground/80">
               <Terminal size={14} className="text-primary" />
-              <span>2+ Years Experience</span>
+              <span></span>
             </div>
             <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-white/10 bg-white/5 backdrop-blur-sm text-xs font-medium text-foreground/80">
               <MapPin size={14} className="text-secondary" />
