@@ -27,17 +27,6 @@ export function Experience() {
       ],
       current: true
     },
-    {
-      role: "Software Developer Intern",
-      company: "FirstVidya Pvt Ltd",
-      date: "Feb 2026 – May 2026",
-      description: [
-        "Collaborated with senior engineers on core software development initiatives.",
-        "Improved application performance and reduced technical debt through rigorous code refactoring.",
-        "Participated in agile ceremonies and code reviews to maintain code quality standards."
-      ],
-      current: false
-    }
   ];
 
   return (
